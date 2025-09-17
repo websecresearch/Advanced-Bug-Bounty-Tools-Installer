@@ -47,8 +47,13 @@ Clone the repo:
 git clone https://github.com/YOURNAME/advanced-bug-bounty-tools-installer.git
 cd advanced-bug-bounty-tools-installer
 
+
 Make script executable and run:
+
 chmod +x advanced-bug-bounty-tools-installer.sh
 ./advanced-bug-bounty-tools-installer.sh
 
 
+Disable aria2c (fall back to normal git clone):
+
+./advanced-bug-bounty-tools-installer.sh --no-aria
