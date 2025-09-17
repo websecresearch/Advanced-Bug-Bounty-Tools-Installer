@@ -44,7 +44,7 @@ This installer bootstraps **20+ essential bug bounty tools**, including:
 ## 🚀 Installation
 Clone the repo:
 ```bash
-git clone https://github.com/YOURNAME/advanced-bug-bounty-tools-installer.git
+git clone https://github.com/websecresearch/Advanced-Bug-Bounty-Tools-Installer.git
 cd advanced-bug-bounty-tools-installer
 
 
