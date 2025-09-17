@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # ==================================================
-# Simple Bootstrap Advanced Installer (Cross-Platform)
+# Advanced Bug Bounty Tools Installer (Cross-Platform)
 # Linux (apt) | macOS (brew) | Windows (Git Bash + Choco)
 # Adds aria2c multi-threaded downloads (default ON)
 # Disable with --no-aria
