@@ -68,3 +68,12 @@ Make script executable:
 
 ./simple-bootstrap-advanced.sh --no-aria
 
+
+4. Allow system installs (sudo) for prerequisites:
+
+./simple-bootstrap-advanced.sh --sudo
+
+
+5. Skip building Ruby and Ruby-based tools:
+
+./simple-bootstrap-advanced.sh --skip-ruby
