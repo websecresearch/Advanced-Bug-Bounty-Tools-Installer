@@ -52,9 +52,8 @@ This repository provides a single script — `advanced-bug-bounty-tools-installe
 
 ## Quick start
 
-
 1. Make script executable:
-
+```bash
 chmod +x advanced-bug-bounty-tools-installer.sh
 
 
