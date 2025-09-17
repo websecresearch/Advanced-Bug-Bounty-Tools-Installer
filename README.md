@@ -58,5 +58,13 @@ chmod +x advanced-bug-bounty-tools-installer.sh
 
 
 2 Run (default):
-```bash
+
 ./simple-bootstrap-advanced.sh
+
+
+3. Disable aria2 download acceleration:
+
+Make script executable:
+
+./simple-bootstrap-advanced.sh --no-aria
+
