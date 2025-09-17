@@ -59,21 +59,21 @@ chmod +x advanced-bug-bounty-tools-installer.sh
 
 2 Run (default):
 
-./simple-bootstrap-advanced.sh
+./advanced-bug-bounty-tools-installer.sh
 
 
 3. Disable aria2 download acceleration:
 
 Make script executable:
 
-./simple-bootstrap-advanced.sh --no-aria
+./advanced-bug-bounty-tools-installer.sh --no-aria
 
 
 4. Allow system installs (sudo) for prerequisites:
 
-./simple-bootstrap-advanced.sh --sudo
+./advanced-bug-bounty-tools-installer.sh --sudo
 
 
 5. Skip building Ruby and Ruby-based tools:
 
-./simple-bootstrap-advanced.sh --skip-ruby
+./advanced-bug-bounty-tools-installer.sh --skip-ruby
