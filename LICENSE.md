@@ -1,7 +1,5 @@
----
+LICENSE.md
 
-### 📄 `LICENSE.md`
-```markdown
 # Custom Open Security License (COSL-1.0)
 
 - ✅ Free to **use, study, and contribute**
